@@ -34,8 +34,8 @@ Desktop view
 
 ### Links
 
-- Solution URL: [Solution](https://enchanting-unicorn-ed4cf6.netlify.app/)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub/responsive-page-using-css-flexbox-P2I1a7fFe8)
+- Live Site URL: [Live site](https://enchanting-unicorn-ed4cf6.netlify.app/)
 
 ## My process
 
@@ -50,7 +50,7 @@ Desktop view
 
 ## Author
 
-- Website - [Hawi Girmachew](https://www.your-site.com)
+- Website - [Hawi Girmachew](https://enchanting-unicorn-ed4cf6.netlify.app/)
 - Frontend Mentor - [@Hawigirmachew](https://www.frontendmentor.io/profile/Hawigirmachew)
 - Twitter - [@girmachee_h](https://www.twitter.com/girmachee_h)
 
