@@ -11,10 +11,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -26,12 +24,18 @@ Users should be able to:
 - View the optimal layout for the section depending on their device's screen size
 
 ### Screenshot
+-MObile-view
+![mobile-view](https://user-images.githubusercontent.com/88828065/193019672-cf8237ba-c580-40a3-b38a-6990d492d8ec.PNG)
 
+
+Desktop view
+
+![desktop-view](https://user-images.githubusercontent.com/88828065/193019740-5e60c5ff-20b7-41ea-a7c8-96841ee4c6ca.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://enchanting-unicorn-ed4cf6.netlify.app/)
+- Live Site URL: [Live site](https://your-live-site-url.com)
 
 ## My process
 
@@ -41,12 +45,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - mobile-first workflow
-
-### What I learned
-
-
-
-
 
 
 
